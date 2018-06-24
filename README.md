@@ -1,6 +1,6 @@
 # FormatDate
 How to convert format date, example from dd/MM/YYYY to YYYY-MM-dd
-# CocoaPods
+# Instal via CocoaPods
 ```
 pod 'FormatDate'
 ```
