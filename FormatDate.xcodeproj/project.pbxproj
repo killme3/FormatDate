@@ -15,6 +15,7 @@
 		7B230BDF20DFCF26009D2610 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B230BDD20DFCF26009D2610 /* LaunchScreen.storyboard */; };
 		7B230BEA20DFCF27009D2610 /* FormatDateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B230BE920DFCF27009D2610 /* FormatDateTests.swift */; };
 		7B230BF520DFCF27009D2610 /* FormatDateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B230BF420DFCF27009D2610 /* FormatDateUITests.swift */; };
+		7B230C0320DFCF5C009D2610 /* FormatDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B230C0220DFCF5C009D2610 /* FormatDate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7B230BF020DFCF27009D2610 /* FormatDateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FormatDateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B230BF420DFCF27009D2610 /* FormatDateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormatDateUITests.swift; sourceTree = "<group>"; };
 		7B230BF620DFCF27009D2610 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B230C0220DFCF5C009D2610 /* FormatDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormatDate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				7B230BDD20DFCF26009D2610 /* LaunchScreen.storyboard */,
 				7B230BE020DFCF27009D2610 /* Info.plist */,
 				7B230BD820DFCF24009D2610 /* FormatDate.xcdatamodeld */,
+				7B230C0220DFCF5C009D2610 /* FormatDate.swift */,
 			);
 			path = FormatDate;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				7B230BD420DFCF24009D2610 /* ViewController.swift in Sources */,
 				7B230BDA20DFCF24009D2610 /* FormatDate.xcdatamodeld in Sources */,
+				7B230C0320DFCF5C009D2610 /* FormatDate.swift in Sources */,
 				7B230BD220DFCF24009D2610 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
