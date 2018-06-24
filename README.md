@@ -1,5 +1,5 @@
-# FormatDate
-How to convert format date, example from dd/MM/YYYY to YYYY-MM-dd
+# FormatDate iOS Swift 
+How to convert format date, example from dd/MM/YYYY to MMM dd, yyyy
 # Install via CocoaPods
 ```
 pod 'FormatDate'
