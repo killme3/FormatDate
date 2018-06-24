@@ -11,6 +11,8 @@ import UIKit
 
 public class FormatDate {
     
+    public init() {}
+    
     public func formattedDateFromString(dateFormat: String, dateString: String, withFormat format: String) -> String? {
         
         let inputFormatter = DateFormatter()
