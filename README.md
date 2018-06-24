@@ -5,7 +5,7 @@ How to convert format date, example from dd/MM/YYYY to YYYY-MM-dd
 pod 'FormatDate'
 ```
 # Usage
-```
+```swift
 import FormatDate
 
 var formatDate = FormatDate()
